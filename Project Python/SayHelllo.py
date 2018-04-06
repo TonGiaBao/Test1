@@ -8,3 +8,9 @@ def xuat(x):
     x = 2 *2
     print(x)
 xuat("")
+
+
+def xuat(s):
+    s = 3 *3
+    print(s)
+xuat("")
